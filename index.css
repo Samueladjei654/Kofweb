@@ -1,0 +1,9 @@
+@font-face{
+  src: url(fonts/Roboto-BoldItalic.ttf);
+  font-family:myfont;
+  
+}
+p{
+  font-family: myfont;
+  font-size: 50px;
+}
